@@ -22,9 +22,9 @@ img{
 .quiz-container {
     background-color: white;
     padding: 20px;
-    width: 100vw;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100vw;
     text-align: left; /* Isso centraliza todo o texto dentro do contêiner */
 }
 
